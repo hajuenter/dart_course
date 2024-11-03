@@ -30,4 +30,12 @@ void main() {
   var s2 = 'ACH. ' 'BAHRUL ' 'MAARIP';
   print(s1);
   print(s2);
+
+  // string multi line
+  var multiLine = '''
+halo
+hai 
+gimana
+''';
+  print(multiLine);
 }
